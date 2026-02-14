@@ -44,7 +44,7 @@ I leverage a comprehensive set of DevOps and Cloud tools to automate, deploy, an
 | 🐧 **Operating Systems** | Linux (Ubuntu, Amazon Linux) |
 
 ### 🧑‍🏫 Tech Stack 
-![Tech Stack](./images/tech_stack_manju.png)
+![Tech Stack](./images/tech_stack.png)
 
 ---
 
